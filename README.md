@@ -17,24 +17,22 @@ My goal is to answer the following questions through data collection and analysi
 	- Genre?
 	- Runtime?
 	- Team? 
-4. When, where and how should I distribute my movies?
+4. When should I release the movies?
+5. How much money should I invest?
+6. How can I can measure 'hype/buzz'
+6. Further Analysis
 	- Amazon Prime
 	- Netflix
 	- Youtube
 	- Disney+
 	- Hulu
-5. How much money should I invest?
-
 ## Files in this Respository:
 
-- Data.ipynb - Jupyter notebook containing the functions used to gather data.
-- Student.ipynb - Jupyter notebook containing visualizations.
-- BeautifulSoup.ipynb - Jupyter notebook containing webscraping.
+- Student.ipynb - Jupyter notebook containing data and visualizations.
+- BeautifulSoup.ipynb - Jupyter notebook containing webscraping of Twitter mentionings for 'Mulan' to be released on Disney+ this month.
 
 ## Data Collection:
 - BeautifulSoup
-- Request
-- Json
 - Pandas
 
 ## Data Cleaning & Visualization
@@ -43,10 +41,10 @@ My goal is to answer the following questions through data collection and analysi
 - Matplotlib
 
 ## Sources:
-- Y
-- X
+- IMDB
 
 ## Project Slides:
 
 
 ## Recommendation:
+- 
