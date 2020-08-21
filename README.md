@@ -42,7 +42,7 @@ My goal is to answer the following questions through data collection and analysi
 - Twitter API Tutorial: https://www.youtube.com/watch?v=uwJlcObHYtM
 
 ## Project Slides:
-
+-See Movie Project 
 
 ## Recommendation:
 1. Is the industry growing? Yes, but lots of hits and misses.
@@ -51,4 +51,4 @@ My goal is to answer the following questions through data collection and analysi
 4. When should I release the movies? Summer, and then December.
 5. How much money should I invest? $500M
 6. How can I can measure 'hype/buzz': Twitter API 
-7. Further Analysis: See slides
+7. Further Analysis: See slides!
