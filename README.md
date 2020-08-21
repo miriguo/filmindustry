@@ -42,6 +42,7 @@ My goal is to answer the following questions through data collection and analysi
 
 ## Sources:
 - IMDB
+- Twitter API Tutorial: https://www.youtube.com/watch?v=uwJlcObHYtM
 
 ## Project Slides:
 
