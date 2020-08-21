@@ -29,7 +29,7 @@ My goal is to answer the following questions through data collection and analysi
 - BeautifulSoup.ipynb - Jupyter notebook containing webscraping/api of Twitter mentionings for 'Mulan' to be released on Disney+ this month.
 
 ## Data Collection:
-- BeautifulSoup
+- BeautifulSoup (this is a Twitter API, name is misleading as BS is not used)
 - Pandas
 
 ## Data Cleaning & Visualization
