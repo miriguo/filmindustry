@@ -14,9 +14,6 @@ My goal is to answer the following questions through data collection and analysi
 1. Is the industry growing?
 2. What is the competitive landscape?
 3. What movies should I make?
-	- Genre?
-	- Runtime?
-	- Team? 
 4. When should I release the movies?
 5. How much money should I invest?
 6. How can I can measure 'hype/buzz'
