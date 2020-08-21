@@ -1,6 +1,6 @@
 # Flatiron School Module 1 Final Project
 
-Team Members: Miri Guo
+Team Member: Miri Guo
 
 ## Introduction
 
@@ -25,8 +25,8 @@ My goal is to answer the following questions through data collection and analysi
 	- Hulu
 ## Files in this Respository:
 
-- Student.ipynb - Jupyter notebook containing data and visualizations.
-- BeautifulSoup.ipynb - Jupyter notebook containing webscraping of Twitter mentionings for 'Mulan' to be released on Disney+ this month.
+- Movies Project.ipynb - Jupyter notebook containing data and visualizations.
+- BeautifulSoup.ipynb - Jupyter notebook containing webscraping/api of Twitter mentionings for 'Mulan' to be released on Disney+ this month.
 
 ## Data Collection:
 - BeautifulSoup
@@ -45,4 +45,10 @@ My goal is to answer the following questions through data collection and analysi
 
 
 ## Recommendation:
-- 
+1. Is the industry growing? Yes, but lots of hits and misses.
+2. What is the competitive landscape? Top studios create blockbuster hits leaving room for smaller studios to create indie films and documentaries.
+3. What movies should I make? Depends on my budget, but actions movies perform the best at the box office.
+4. When should I release the movies? Summer, and then December.
+5. How much money should I invest? $500M
+6. How can I can measure 'hype/buzz': Twitter API 
+7. Further Analysis: See slides
